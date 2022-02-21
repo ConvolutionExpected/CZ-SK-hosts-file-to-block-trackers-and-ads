@@ -925,6 +925,8 @@
 #Microsoft Office
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
 0.0.0.0 prod.nexusrules.live.com.akadns.net
+0.0.0.0 upload.fp.measure.office.com
+0.0.0.0 upload2.fp.measure.office.com
 
 #Apple
 0.0.0.0 metrics.icloud.com

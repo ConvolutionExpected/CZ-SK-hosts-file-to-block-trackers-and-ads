@@ -1147,6 +1147,7 @@ static.cloudflareinsights.com
 0.0.0.0 aem-collector.daumkakao.io
 
 #Other ads, trackers and telemetry
+0.0.0.0 tls.telemetry.swe.quicinc.com
 0.0.0.0 beacon.s-onetag.com
 0.0.0.0 powerad.ai
 0.0.0.0 jscdn.yieldbird.com

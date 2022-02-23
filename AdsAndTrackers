@@ -163,11 +163,24 @@ static.cloudflareinsights.com
 0.0.0.0 trackad.cz
 0.0.0.0 visibility.postaffiliatepro.com
 0.0.0.0 a.1gr.cz
+0.0.0.0 recycle-static.zoznam.sk
+0.0.0.0 imr.sk
+0.0.0.0 sk.search.etargetnet.com
+0.0.0.0 login.affial.com
+0.0.0.0 hc.bonprix.sk
+
+#Gaming related
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 tracker-v4.gamedock.io
+0.0.0.0 api.gameanalytics.com
 
 #Gemius
 0.0.0.0 gemius.pl
 0.0.0.0 gask.hit.gemius.pl
 0.0.0.0 ls.hit.gemius.pl
+
+#Disqus
+0.0.0.0 referrer.disqus.com
 
 #ScorecardResearch
 0.0.0.0 sb.scorecardresearch.com
@@ -224,11 +237,18 @@ static.cloudflareinsights.com
 0.0.0.0 prd.jwpltx.com
 0.0.0.0 entitlements.jwplayer.com
 
+#Other video related trackers and ads
+0.0.0.0 video-ads.rubiconproject.com
+0.0.0.0 publisher.caroda.io
+
 #Daum
 0.0.0.0 display.ad.daum.net
 0.0.0.0 aem-collector.daumkakao.io
 
 #Other ads, trackers and telemetry
+0.0.0.0 beacon.s-onetag.com
+0.0.0.0 powerad.ai
+0.0.0.0 jscdn.yieldbird.com
 0.0.0.0 s10.adtidy.org
 0.0.0.0 content.aimatch.com
 0.0.0.0 www.anrdoezrs.net
@@ -236,7 +256,6 @@ static.cloudflareinsights.com
 0.0.0.0 c.riskified.com
 0.0.0.0 smetrics.elsevier.com
 0.0.0.0 files.upscore.com
-0.0.0.0 publisher.caroda.io
 0.0.0.0 a.pub.network
 0.0.0.0 tru.am
 0.0.0.0 s.go-mpulse.net
@@ -279,13 +298,12 @@ static.cloudflareinsights.com
 0.0.0.0 getclicky.com
 0.0.0.0 rickmetrics.com
 0.0.0.0 adnxs.com
+0.0.0.0 secure.adnxs.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 consumertrack.com
-0.0.0.0 tracker-v4.gamedock.io
 0.0.0.0 track.tenjin.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 api.revenuecat.com
-0.0.0.0 api.gameanalytics.com
 0.0.0.0 queryly.com
 0.0.0.0 api2.branch.io
 0.0.0.0 branch.io

@@ -243,6 +243,7 @@ static.cloudflareinsights.com
 #Other video related trackers and ads
 0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 publisher.caroda.io
+0.0.0.0 player-telemetry.vimeo.com
 
 #Daum
 0.0.0.0 display.ad.daum.net

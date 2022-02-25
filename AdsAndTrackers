@@ -168,6 +168,9 @@ static.cloudflareinsights.com
 0.0.0.0 sk.search.etargetnet.com
 0.0.0.0 login.affial.com
 0.0.0.0 hc.bonprix.sk
+0.0.0.0 api.campaigns.notino.com
+0.0.0.0 del.mm.mojadm.sk
+0.0.0.0 del.mm.dm.de
 
 #Gaming related
 0.0.0.0 config.unityads.unity3d.com

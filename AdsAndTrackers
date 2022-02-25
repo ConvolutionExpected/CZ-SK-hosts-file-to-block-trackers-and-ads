@@ -246,6 +246,8 @@ static.cloudflareinsights.com
 0.0.0.0 aem-collector.daumkakao.io
 
 #Other ads, trackers and telemetry
+0.0.0.0 adx.adform.net
+0.0.0.0 a.teads.tv
 0.0.0.0 www.npttech.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 api-esp.piano.io

@@ -249,6 +249,7 @@ static.cloudflareinsights.com
 0.0.0.0 aem-collector.daumkakao.io
 
 #Other ads, trackers and telemetry
+0.0.0.0 api.deep.bi
 0.0.0.0 sk.contentexchange.me
 0.0.0.0 adx.adform.net
 0.0.0.0 a.teads.tv

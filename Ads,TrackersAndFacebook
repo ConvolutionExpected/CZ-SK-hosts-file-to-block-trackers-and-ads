@@ -1072,6 +1072,21 @@ static.cloudflareinsights.com
 0.0.0.0 api.campaigns.notino.com
 0.0.0.0 del.mm.mojadm.sk
 0.0.0.0 del.mm.dm.de
+0.0.0.0 imp.performax.cz
+0.0.0.0 delivery.performax.cz
+0.0.0.0 c.imedia.cz
+0.0.0.0 script.idvert.cz
+0.0.0.0 cz-gmtdmp.mookie1.com
+0.0.0.0 a.iprima.cz
+0.0.0.0 a.csfd.cz
+0.0.0.0 a.centrum.cz
+0.0.0.0 a.1gr.cz
+0.0.0.0 a.denik.cz
+0.0.0.0 a.slunecnice.cz
+0.0.0.0 cdn.cpex.cz
+0.0.0.0 stat.cncenter.cz
+0.0.0.0 h.seznam.cz
+0.0.0.0 cz.search.etargetnet.com
 
 #Gaming related
 0.0.0.0 config.unityads.unity3d.com
@@ -1082,6 +1097,9 @@ static.cloudflareinsights.com
 0.0.0.0 gemius.pl
 0.0.0.0 gask.hit.gemius.pl
 0.0.0.0 ls.hit.gemius.pl
+0.0.0.0 spir.hit.gemius.pl
+0.0.0.0 scz.hit.gemius.pl
+0.0.0.0 pro.hit.gemius.pl
 
 #Disqus
 0.0.0.0 referrer.disqus.com
@@ -1106,6 +1124,7 @@ static.cloudflareinsights.com
 #Adsafeprotected
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 adsafeprotected.com
+0.0.0.0 pixel.adsafeprotected.com
 
 #Newrelic
 0.0.0.0 newrelic.com
@@ -1151,6 +1170,10 @@ static.cloudflareinsights.com
 0.0.0.0 aem-collector.daumkakao.io
 
 #Other ads, trackers and telemetry
+0.0.0.0 sk.adocean.pl
+0.0.0.0 go.eu.bbelements.com
+0.0.0.0 a.ctnsnet.com
+0.0.0.0 api.traq.li
 0.0.0.0 downloads.mailchimp.com
 0.0.0.0 api.deep.bi
 0.0.0.0 sk.contentexchange.me
@@ -1213,10 +1236,12 @@ static.cloudflareinsights.com
 0.0.0.0 rickmetrics.com
 0.0.0.0 adnxs.com
 0.0.0.0 secure.adnxs.com
+0.0.0.0 ib.adnxs.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 consumertrack.com
 0.0.0.0 track.tenjin.com
 0.0.0.0 static.hotjar.com
+0.0.0.0 script.hotjar.com
 0.0.0.0 api.revenuecat.com
 0.0.0.0 queryly.com
 0.0.0.0 api2.branch.io

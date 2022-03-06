@@ -187,6 +187,7 @@ static.cloudflareinsights.com
 0.0.0.0 cz.search.etargetnet.com
 0.0.0.0 tracker.cncenter.cz
 0.0.0.0 ads.m.o2.cz
+0.0.0.0 cookies.teraz.sk
 
 #Gaming related
 0.0.0.0 config.unityads.unity3d.com
@@ -272,6 +273,9 @@ static.cloudflareinsights.com
 0.0.0.0 aem-collector.daumkakao.io
 
 #Other ads, trackers and telemetry
+0.0.0.0 analytics.chegg.com
+0.0.0.0 bulletproof-analytics.com
+0.0.0.0 adblock-impact-measurement.bulletproof-analytics.com
 0.0.0.0 radar.cedexis.com
 0.0.0.0 load.sumo.com
 0.0.0.0 run.adrizer.com

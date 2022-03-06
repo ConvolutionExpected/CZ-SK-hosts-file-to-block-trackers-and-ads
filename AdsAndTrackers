@@ -185,6 +185,7 @@ static.cloudflareinsights.com
 0.0.0.0 cdn.cpex.cz
 0.0.0.0 h.seznam.cz
 0.0.0.0 cz.search.etargetnet.com
+0.0.0.0 tracker.cncenter.cz
 
 #Gaming related
 0.0.0.0 config.unityads.unity3d.com
@@ -268,6 +269,10 @@ static.cloudflareinsights.com
 0.0.0.0 aem-collector.daumkakao.io
 
 #Other ads, trackers and telemetry
+0.0.0.0 radar.cedexis.com
+0.0.0.0 load.sumo.com
+0.0.0.0 run.adrizer.com
+0.0.0.0 ads.blogherads.com
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 widgets.sprinklecontent.com
 0.0.0.0 sk.adocean.pl

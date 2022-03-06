@@ -1092,6 +1092,7 @@ static.cloudflareinsights.com
 0.0.0.0 h.seznam.cz
 0.0.0.0 cz.search.etargetnet.com
 0.0.0.0 tracker.cncenter.cz
+0.0.0.0 ads.m.o2.cz
 
 #Gaming related
 0.0.0.0 config.unityads.unity3d.com
@@ -1150,6 +1151,7 @@ static.cloudflareinsights.com
 #Adform
 0.0.0.0 track.adform.net
 0.0.0.0 s1.adform.net
+0.0.0.0 adx.adform.net
 
 #Pendo
 0.0.0.0 app.pendo.io
@@ -1188,7 +1190,6 @@ static.cloudflareinsights.com
 0.0.0.0 downloads.mailchimp.com
 0.0.0.0 api.deep.bi
 0.0.0.0 sk.contentexchange.me
-0.0.0.0 adx.adform.net
 0.0.0.0 a.teads.tv
 0.0.0.0 www.npttech.com
 0.0.0.0 experience.tinypass.com

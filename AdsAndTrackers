@@ -200,6 +200,7 @@ static.cloudflareinsights.com
 0.0.0.0 spir.hit.gemius.pl
 0.0.0.0 scz.hit.gemius.pl
 0.0.0.0 pro.hit.gemius.pl
+0.0.0.0 gemius.zoznam.sk
 
 #Disqus
 0.0.0.0 referrer.disqus.com

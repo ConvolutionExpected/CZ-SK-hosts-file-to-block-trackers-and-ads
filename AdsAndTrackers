@@ -268,6 +268,8 @@ static.cloudflareinsights.com
 0.0.0.0 aem-collector.daumkakao.io
 
 #Other ads, trackers and telemetry
+0.0.0.0 ads.rubiconproject.com
+0.0.0.0 widgets.sprinklecontent.com
 0.0.0.0 sk.adocean.pl
 0.0.0.0 go.eu.bbelements.com
 0.0.0.0 a.ctnsnet.com
@@ -282,6 +284,7 @@ static.cloudflareinsights.com
 0.0.0.0 api-esp.piano.io
 0.0.0.0 tls.telemetry.swe.quicinc.com
 0.0.0.0 beacon.s-onetag.com
+0.0.0.0 get.s-onetag.com
 0.0.0.0 powerad.ai
 0.0.0.0 jscdn.yieldbird.com
 0.0.0.0 s10.adtidy.org

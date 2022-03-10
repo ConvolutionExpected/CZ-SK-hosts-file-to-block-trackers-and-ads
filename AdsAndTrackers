@@ -269,12 +269,15 @@ static.cloudflareinsights.com
 0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 publisher.caroda.io
 0.0.0.0 player-telemetry.vimeo.com
+0.0.0.0 analytics.vpplayer.tech
 
 #Daum
 0.0.0.0 display.ad.daum.net
 0.0.0.0 aem-collector.daumkakao.io
 
 #Other ads, trackers and telemetry
+0.0.0.0 static.criteo.net
+0.0.0.0 ssl.hurra.com
 0.0.0.0 analytics.chegg.com
 0.0.0.0 bulletproof-analytics.com
 0.0.0.0 adblock-impact-measurement.bulletproof-analytics.com

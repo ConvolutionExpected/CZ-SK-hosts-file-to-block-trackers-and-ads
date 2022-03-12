@@ -939,6 +939,7 @@
 0.0.0.0 ca.iadsdk.apple.com
 
 #Google
+0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 www.googleoptimize.com

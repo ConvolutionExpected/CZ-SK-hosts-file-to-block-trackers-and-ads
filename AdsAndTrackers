@@ -142,6 +142,7 @@ static.cloudflareinsights.com
 0.0.0.0 sc.adobedc.net
 0.0.0.0 sc.omtrdc.net
 0.0.0.0 cpex.demdex.net
+0.0.0.0 geo.adobe.com
 
 #SK/CZ
 0.0.0.0 login.dognet.sk

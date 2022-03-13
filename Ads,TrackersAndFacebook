@@ -1225,7 +1225,6 @@ static.cloudflareinsights.com
 0.0.0.0 beacon.s-onetag.com
 0.0.0.0 powerad.ai
 0.0.0.0 jscdn.yieldbird.com
-0.0.0.0 s10.adtidy.org
 0.0.0.0 content.aimatch.com
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 rum-http-intake.logs.datadoghq.com

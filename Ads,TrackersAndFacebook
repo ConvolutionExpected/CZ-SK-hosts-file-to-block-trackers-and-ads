@@ -1097,6 +1097,10 @@ static.cloudflareinsights.com
 0.0.0.0 ads.m.o2.cz
 0.0.0.0 cookies.teraz.sk
 0.0.0.0 tracker.mail-komplet.cz
+0.0.0.0 hb.impressionmedia.cz
+0.0.0.0 delivery.r2b2.cz
+0.0.0.0 recycle.zoznam.sk
+0.0.0.0 recycle.topky.sk
 
 #Gaming related
 0.0.0.0 config.unityads.unity3d.com
@@ -1185,7 +1189,15 @@ static.cloudflareinsights.com
 0.0.0.0 aem-collector.daumkakao.io
 
 #Other ads, trackers and telemetry
+0.0.0.0 intake-analytics.wikimedia.org
+0.0.0.0 cdn.mookie1.com
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 hb.adscale.de
+0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 prebid.mgid.com
+0.0.0.0 bidder.criteo.com
 0.0.0.0 static.criteo.net
+0.0.0.0 gum.criteo.com
 0.0.0.0 ssl.hurra.com
 0.0.0.0 analytics.chegg.com
 0.0.0.0 bulletproof-analytics.com

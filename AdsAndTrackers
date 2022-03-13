@@ -283,6 +283,7 @@ static.cloudflareinsights.com
 0.0.0.0 aem-collector.daumkakao.io
 
 #Other ads, trackers and telemetry
+0.0.0.0 analytics.nike.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 cdn.mookie1.com
 0.0.0.0 fastlane.rubiconproject.com

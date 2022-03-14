@@ -118,6 +118,11 @@
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 s0.2mdn.net
 
+#Waze
+0.0.0.0 ads-resources.waze.com
+0.0.0.0 adsassets.waze.com
+0.0.0.0 ads-resources-legacy.waze.com
+
 #Spotify
 0.0.0.0 analytics.spotify.com
 0.0.0.0 crashdump.spotify.com
@@ -176,6 +181,7 @@ static.cloudflareinsights.com
 0.0.0.0 imp.performax.cz
 0.0.0.0 delivery.performax.cz
 0.0.0.0 c.imedia.cz
+0.0.0.0 i.imedia.cz
 0.0.0.0 script.idvert.cz
 0.0.0.0 cz-gmtdmp.mookie1.com
 0.0.0.0 a.iprima.cz
@@ -212,6 +218,7 @@ static.cloudflareinsights.com
 0.0.0.0 gemius.zoznam.sk
 0.0.0.0 cs.hit.gemius.pl
 0.0.0.0 gacz.hit.gemius.pl
+0.0.0.0 ghmsk.hit.gemius.pl
 
 #Disqus
 0.0.0.0 referrer.disqus.com
@@ -228,6 +235,7 @@ static.cloudflareinsights.com
 #Segment
 0.0.0.0 cdn-settings.segment.com
 0.0.0.0 api.segment.io
+0.0.0.0 mobile-service.segment.com
 
 #Sharethis
 0.0.0.0 platform-api.sharethis.com
@@ -284,6 +292,9 @@ static.cloudflareinsights.com
 0.0.0.0 aem-collector.daumkakao.io
 
 #Other ads, trackers and telemetry
+0.0.0.0 167126.engine.mobileapptracking.com
+0.0.0.0 media.trafficjunky.com
+0.0.0.0 micro.rubiconproject.com
 0.0.0.0 analytics.nike.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 cdn.mookie1.com

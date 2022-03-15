@@ -20,6 +20,7 @@
 0.0.0.0 vortex-sandbox.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 bat.bing.com
 
 #Microsoft Office
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
@@ -33,7 +34,6 @@
 0.0.0.0 ca.iadsdk.apple.com
 
 #Google
-0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 www.googleoptimize.com
@@ -202,6 +202,9 @@ static.cloudflareinsights.com
 0.0.0.0 recycle.zoznam.sk
 0.0.0.0 recycle.topky.sk
 0.0.0.0 ad.sitelement.sk
+0.0.0.0 stat.kununu.cz
+0.0.0.0 track.imservice.sk
+0.0.0.0 a.iprima.cz
 
 #Gaming related
 0.0.0.0 config.unityads.unity3d.com
@@ -292,13 +295,25 @@ static.cloudflareinsights.com
 0.0.0.0 aem-collector.daumkakao.io
 
 #Other ads, trackers and telemetry
+0.0.0.0 t.targito.com
+0.0.0.0 servedby.flashtalking.com
+0.0.0.0 fn.autolink.growthcaptain.fr
+0.0.0.0 grmtech.net
+0.0.0.0 bbcdn-bbnaut.ibillboard.com
+0.0.0.0 pq-direct.revsci.net
+0.0.0.0 p589.atemda.com
+0.0.0.0 secure.quantserve.com
+0.0.0.0 collect-eu-central-1.tealiumiq.com
+0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 167126.engine.mobileapptracking.com
 0.0.0.0 media.trafficjunky.com
-0.0.0.0 micro.rubiconproject.com
 0.0.0.0 analytics.nike.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 cdn.mookie1.com
+0.0.0.0 micro.rubiconproject.com
 0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 pixel-eu.rubiconproject.com
+0.0.0.0 ads.rubiconproject.com
 0.0.0.0 hb.adscale.de
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 prebid.mgid.com
@@ -313,7 +328,6 @@ static.cloudflareinsights.com
 0.0.0.0 load.sumo.com
 0.0.0.0 run.adrizer.com
 0.0.0.0 ads.blogherads.com
-0.0.0.0 ads.rubiconproject.com
 0.0.0.0 widgets.sprinklecontent.com
 0.0.0.0 sk.adocean.pl
 0.0.0.0 go.eu.bbelements.com
@@ -363,7 +377,9 @@ static.cloudflareinsights.com
 0.0.0.0 cdn.sophi.io
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 assets.strossle.com
+0.0.0.0 moatads.com
 0.0.0.0 js.moatads.com
+0.0.0.0 z.moatads.com 
 0.0.0.0 content-ad.net
 0.0.0.0 content.ad
 0.0.0.0 adblade.com
@@ -371,7 +387,6 @@ static.cloudflareinsights.com
 0.0.0.0 chartboost.com
 0.0.0.0 voodoo-analytics.com
 0.0.0.0 vungle.com
-0.0.0.0 moatads.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 api.bugfender.com

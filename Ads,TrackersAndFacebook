@@ -1046,6 +1046,10 @@ static.cloudflareinsights.com
 #Pinterest
 0.0.0.0 trk.pinterest.com
 
+#WordPress
+0.0.0.0 pixel.wp.com
+0.0.0.0 stats.wp.com
+
 #Adobe
 0.0.0.0 p.typekit.net
 0.0.0.0 cc-api-data.adobe.io

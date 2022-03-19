@@ -117,6 +117,7 @@
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 s0.2mdn.net
+0.0.0.0 6501629.fls.doubleclick.net
 
 #Waze
 0.0.0.0 ads-resources.waze.com
@@ -138,6 +139,10 @@ static.cloudflareinsights.com
 
 #Pinterest
 0.0.0.0 trk.pinterest.com
+
+#WordPress
+0.0.0.0 pixel.wp.com
+0.0.0.0 stats.wp.com
 
 #Adobe
 0.0.0.0 p.typekit.net
@@ -205,8 +210,10 @@ static.cloudflareinsights.com
 0.0.0.0 stat.kununu.cz
 0.0.0.0 track.imservice.sk
 0.0.0.0 a.iprima.cz
+0.0.0.0 go.eu.bbelements.com
 
 #Gaming related
+0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 tracker-v4.gamedock.io
 0.0.0.0 api.gameanalytics.com
@@ -295,6 +302,19 @@ static.cloudflareinsights.com
 0.0.0.0 aem-collector.daumkakao.io
 
 #Other ads, trackers and telemetry
+0.0.0.0 combine.urbanairship.com
+0.0.0.0 track.mailerlite.com
+0.0.0.0 protagcdn.com
+0.0.0.0 trackcmp.net
+0.0.0.0 s7.addthis.com
+0.0.0.0 api.exponea.com
+0.0.0.0 proxy.snrbox.com
+0.0.0.0 dc.snrbox.com
+0.0.0.0 tck.snrbox.com
+0.0.0.0 creativecdn.com
+0.0.0.0 widget.trustpilot.com
+0.0.0.0 inpref.com
+0.0.0.0 cdn.taboola.com
 0.0.0.0 t.targito.com
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 fn.autolink.growthcaptain.fr

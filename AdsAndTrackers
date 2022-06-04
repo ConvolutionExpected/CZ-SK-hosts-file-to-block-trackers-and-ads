@@ -35,6 +35,9 @@
 0.0.0.0 metrics.icloud.com
 0.0.0.0 ca.iadsdk.apple.com
 
+#Facebook
+dit.whatsapp.net
+
 #Google
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 partner.googleadservices.com

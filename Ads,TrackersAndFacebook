@@ -1021,6 +1021,7 @@
 0.0.0.0 www2.doubleclick.com
 0.0.0.0 doubleclick.com
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com

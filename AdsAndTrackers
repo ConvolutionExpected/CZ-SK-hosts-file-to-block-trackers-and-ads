@@ -140,6 +140,7 @@ dit.whatsapp.net
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 fls-na.amazon.com
 
 #Cloudflare
 static.cloudflareinsights.com
@@ -331,6 +332,7 @@ static.cloudflareinsights.com
 0.0.0.0 itop.qq.com
 
 #Other ads, trackers and telemetry
+0.0.0.0 acsbapp.com
 0.0.0.0 api.iterable.com
 0.0.0.0 px-conf.perimeterx.net
 0.0.0.0 collector-pxikkul2rm.perimeterx.net

@@ -903,6 +903,7 @@
 0.0.0.0 newsroom.fb.com
 0.0.0.0 investor.fb.com
 0.0.0.0 instagram.frix7-1.fna.fbcdn.net
+0.0.0.0 platform-lookaside.fbsbx.com
 
 #Microsoft
 0.0.0.0 srtb.msn.com
@@ -1025,6 +1026,7 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons5.gvt3.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 6501629.fls.doubleclick.net
 
@@ -1061,7 +1063,11 @@ static.cloudflareinsights.com
 0.0.0.0 sc.adobedc.net
 0.0.0.0 sc.omtrdc.net
 0.0.0.0 cpex.demdex.net
+0.0.0.0 dpm.demdex.net
 0.0.0.0 geo.adobe.com
+
+#Netflix
+0.0.0.0 ichnaea-web.netflix.com
 
 #SK/CZ
 0.0.0.0 login.dognet.sk
@@ -1125,6 +1131,7 @@ static.cloudflareinsights.com
 #Gaming related
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 tracker-v4.gamedock.io
 0.0.0.0 api.gameanalytics.com
 
@@ -1181,6 +1188,7 @@ static.cloudflareinsights.com
 #Flurry
 0.0.0.0 flurry.com
 0.0.0.0 ads.flurry.com
+0.0.0.0 data.flurry.com
 
 #Adform
 0.0.0.0 track.adform.net
@@ -1211,7 +1219,34 @@ static.cloudflareinsights.com
 0.0.0.0 display.ad.daum.net
 0.0.0.0 aem-collector.daumkakao.io
 
+#QQ
+0.0.0.0 bugly.qq.com
+0.0.0.0 ios.bugly.qq.com
+0.0.0.0 ios.bugly.qcloud.com
+0.0.0.0 pingma.qq.com
+0.0.0.0 cgi.connect.qq.com
+0.0.0.0 fusion.qq.com
+0.0.0.0 trace.qq.com
+0.0.0.0 pingjs.qq.com
+0.0.0.0 btrace.qq.com
+0.0.0.0 pingma.qq.com
+0.0.0.0 beacon.qq.com
+0.0.0.0 stat.y.qq.com
+0.0.0.0 mazu.m.qq.com
+0.0.0.0 itop.qq.com
+
 #Other ads, trackers and telemetry
+0.0.0.0 api.iterable.com
+0.0.0.0 px-conf.perimeterx.net
+0.0.0.0 collector-pxikkul2rm.perimeterx.net
+0.0.0.0 www.adtilt.com
+0.0.0.0 config.inmobi.com
+0.0.0.0 d.applovin.com
+0.0.0.0 rt.applovin.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 outcome-ssp.supersonicads.com
+0.0.0.0 init.supersonicads.com
+0.0.0.0 pm-gateway.supersonicads.com
 0.0.0.0 r2b2-emea.adnxs.com
 0.0.0.0 etarget-emea.adnxs.com
 0.0.0.0 prg.smartadserver.com
@@ -1292,6 +1327,7 @@ static.cloudflareinsights.com
 0.0.0.0 www.dianomi.com
 0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 launches.appsflyer.com
+0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 cdn.perfdrive.com
 0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 tags.tiqcdn.com
@@ -1322,6 +1358,7 @@ static.cloudflareinsights.com
 0.0.0.0 chartboost.com
 0.0.0.0 voodoo-analytics.com
 0.0.0.0 vungle.com
+0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 api.bugfender.com

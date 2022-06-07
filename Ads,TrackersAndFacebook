@@ -941,6 +941,8 @@
 #Apple
 0.0.0.0 metrics.icloud.com
 0.0.0.0 ca.iadsdk.apple.com
+0.0.0.0 securemetrics.apple.com
+0.0.0.0 weather-analytics-events.apple.com
 
 #Google
 0.0.0.0 growth-pa.googleapis.com
@@ -1237,6 +1239,7 @@ static.cloudflareinsights.com
 0.0.0.0 itop.qq.com
 
 #Other ads, trackers and telemetry
+0.0.0.0 cdn.cxense.com
 0.0.0.0 acsbapp.com
 0.0.0.0 api.iterable.com
 0.0.0.0 px-conf.perimeterx.net
@@ -1281,6 +1284,7 @@ static.cloudflareinsights.com
 0.0.0.0 media.trafficjunky.com
 0.0.0.0 analytics.nike.com
 0.0.0.0 intake-analytics.wikimedia.org
+0.0.0.0 intake-logging.wikimedia.org
 0.0.0.0 cdn.mookie1.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 pixel-eu.rubiconproject.com
@@ -1312,6 +1316,7 @@ static.cloudflareinsights.com
 0.0.0.0 www.npttech.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 api-esp.piano.io
+0.0.0.0 experience-eu.piano.io
 0.0.0.0 tls.telemetry.swe.quicinc.com
 0.0.0.0 get.s-onetag.com
 0.0.0.0 beacon.s-onetag.com

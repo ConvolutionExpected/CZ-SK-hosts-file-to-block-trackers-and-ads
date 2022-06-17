@@ -930,6 +930,8 @@
 0.0.0.0 bat.bing.com
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 snap.licdn.com
+0.0.0.0 px4.ads.linkedin.com
 
 #Microsoft Office
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
@@ -945,6 +947,8 @@
 0.0.0.0 weather-analytics-events.apple.com
 
 #Google
+0.0.0.0 s.youtube.com
+0.0.0.0 csi.gstatic.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 www.googleoptimize.com
@@ -1047,12 +1051,14 @@
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.com
+0.0.0.0 aax.amazon-adsystem.com
 
 #Cloudflare
 static.cloudflareinsights.com
 
 #Pinterest
 0.0.0.0 trk.pinterest.com
+0.0.0.0 log.pinterest.com
 
 #WordPress
 0.0.0.0 pixel.wp.com
@@ -1073,6 +1079,8 @@ static.cloudflareinsights.com
 0.0.0.0 ichnaea-web.netflix.com
 
 #SK/CZ
+0.0.0.0 tracker.azet.sk
+0.0.0.0 bisko.mall.tv
 0.0.0.0 login.dognet.sk
 0.0.0.0 dognet.sk
 0.0.0.0 predu.sk
@@ -1239,6 +1247,10 @@ static.cloudflareinsights.com
 0.0.0.0 itop.qq.com
 
 #Other ads, trackers and telemetry
+0.0.0.0 ads.adthrive.com
+0.0.0.0 cdn.appdynamics.com
+0.0.0.0 cdn.viglink.com
+0.0.0.0 src.litix.io
 0.0.0.0 cdn.cxense.com
 0.0.0.0 acsbapp.com
 0.0.0.0 api.iterable.com
@@ -1292,6 +1304,7 @@ static.cloudflareinsights.com
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 hb.adscale.de
 0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 ads.pubmatic.com
 0.0.0.0 prebid.mgid.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 static.criteo.net
@@ -1308,6 +1321,8 @@ static.cloudflareinsights.com
 0.0.0.0 sk.adocean.pl
 0.0.0.0 go.eu.bbelements.com
 0.0.0.0 a.ctnsnet.com
+0.0.0.0 i.ctnsnet.com
+0.0.0.0 cdn.ctnsnet.com
 0.0.0.0 api.traq.li
 0.0.0.0 downloads.mailchimp.com
 0.0.0.0 api.deep.bi
@@ -1358,6 +1373,7 @@ static.cloudflareinsights.com
 0.0.0.0 moatads.com
 0.0.0.0 js.moatads.com
 0.0.0.0 z.moatads.com 
+0.0.0.0 mb.moatads.com
 0.0.0.0 content-ad.net
 0.0.0.0 content.ad
 0.0.0.0 adblade.com

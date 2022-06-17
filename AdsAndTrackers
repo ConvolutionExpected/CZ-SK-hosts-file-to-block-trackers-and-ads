@@ -43,6 +43,7 @@
 dit.whatsapp.net
 
 #Google
+0.0.0.0 region1.app-measurement.com
 0.0.0.0 s.youtube.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 growth-pa.googleapis.com
@@ -342,6 +343,8 @@ static.cloudflareinsights.com
 0.0.0.0 itop.qq.com
 
 #Other ads, trackers and telemetry
+0.0.0.0 venetia.iad.appboy.com
+0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 ads.adthrive.com
 0.0.0.0 cdn.appdynamics.com
 0.0.0.0 cdn.viglink.com

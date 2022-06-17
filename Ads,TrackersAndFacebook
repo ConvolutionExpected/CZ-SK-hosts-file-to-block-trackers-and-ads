@@ -1080,6 +1080,8 @@ static.cloudflareinsights.com
 0.0.0.0 ichnaea-web.netflix.com
 
 #SK/CZ
+0.0.0.0 beam.denikn.cz
+0.0.0.0 tracker.beam.denikn.cz
 0.0.0.0 tracker.azet.sk
 0.0.0.0 bisko.mall.tv
 0.0.0.0 login.dognet.sk
@@ -1248,6 +1250,7 @@ static.cloudflareinsights.com
 0.0.0.0 itop.qq.com
 
 #Other ads, trackers and telemetry
+0.0.0.0 analytics.jibecdn.com
 0.0.0.0 venetia.iad.appboy.com
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 ads.adthrive.com

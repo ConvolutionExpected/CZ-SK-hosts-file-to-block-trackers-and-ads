@@ -905,6 +905,9 @@
 0.0.0.0 instagram.frix7-1.fna.fbcdn.net
 0.0.0.0 platform-lookaside.fbsbx.com
 
+#Twitter
+0.0.0.0 static.scroll.com
+
 #Microsoft
 0.0.0.0 srtb.msn.com
 0.0.0.0 c.msn.com
@@ -932,6 +935,7 @@
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 snap.licdn.com
 0.0.0.0 px4.ads.linkedin.com
+0.0.0.0 target.microsoft.com
 
 #Microsoft Office
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
@@ -1160,6 +1164,7 @@ static.cloudflareinsights.com
 0.0.0.0 cs.hit.gemius.pl
 0.0.0.0 gacz.hit.gemius.pl
 0.0.0.0 ghmsk.hit.gemius.pl
+0.0.0.0 galt.hit.gemius.pl
 
 #Disqus
 0.0.0.0 referrer.disqus.com
@@ -1250,6 +1255,12 @@ static.cloudflareinsights.com
 0.0.0.0 itop.qq.com
 
 #Other ads, trackers and telemetry
+0.0.0.0 log.api.drift.com
+0.0.0.0 stats.datawrapper.de
+0.0.0.0 analytics.brave.com
+0.0.0.0 logx.optimizely.com
+0.0.0.0 cdn.optimizely.com
+0.0.0.0 widgets.outbrain.com
 0.0.0.0 analytics.jibecdn.com
 0.0.0.0 venetia.iad.appboy.com
 0.0.0.0 sdk.iad-01.braze.com
@@ -1368,7 +1379,6 @@ static.cloudflareinsights.com
 0.0.0.0 s.skimresources.com
 0.0.0.0 tt.onthe.io
 0.0.0.0 cdn.onthe.io
-0.0.0.0 static.scroll.com
 0.0.0.0 ad.wsod.com
 0.0.0.0 static.chartbeat.com
 0.0.0.0 cdn.permutive.com
@@ -1380,6 +1390,7 @@ static.cloudflareinsights.com
 0.0.0.0 js.moatads.com
 0.0.0.0 z.moatads.com 
 0.0.0.0 mb.moatads.com
+0.0.0.0 px.moatads.com
 0.0.0.0 content-ad.net
 0.0.0.0 content.ad
 0.0.0.0 adblade.com

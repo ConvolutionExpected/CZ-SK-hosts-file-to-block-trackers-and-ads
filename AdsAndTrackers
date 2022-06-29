@@ -136,6 +136,7 @@ dit.whatsapp.net
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 6501629.fls.doubleclick.net
+0.0.0.0 adservice.google.cz
 
 #Waze
 0.0.0.0 ads-resources.waze.com
@@ -175,6 +176,7 @@ static.cloudflareinsights.com
 0.0.0.0 cpex.demdex.net
 0.0.0.0 dpm.demdex.net
 0.0.0.0 geo.adobe.com
+0.0.0.0 adobedc.demdex.net
 
 #Netflix
 0.0.0.0 ichnaea-web.netflix.com
@@ -240,6 +242,9 @@ static.cloudflareinsights.com
 0.0.0.0 track.imservice.sk
 0.0.0.0 a.iprima.cz
 0.0.0.0 go.eu.bbelements.com
+0.0.0.0 serve.productads.sk
+0.0.0.0 swasc.kaufland.sk
+0.0.0.0 bannersector.sector.sk
 
 #Gaming related
 0.0.0.0 cdp.cloud.unity3d.com
@@ -349,13 +354,48 @@ static.cloudflareinsights.com
 0.0.0.0 mazu.m.qq.com
 0.0.0.0 itop.qq.com
 
+#Outbrain
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 vrt.outbrain.com
+0.0.0.0 amplifypixel.outbrain.com
+0.0.0.0 images.outbrain.com
+0.0.0.0 log.outbrain.com
+0.0.0.0 odb.outbrain.com
+
 #Other ads, trackers and telemetry
+0.0.0.0 www.summerhamster.com
+0.0.0.0 targeting.washpost.nile.works
+0.0.0.0 wapo-analytics.zeustechnology.com
+0.0.0.0 sofia.trustx.org
+0.0.0.0 metrics.washingtonpost.com
+0.0.0.0 audience.zeustechnology.com
+0.0.0.0 image8.pubmatic.com
+0.0.0.0 w.usabilla.com
+0.0.0.0 tag.bounceexchange.com
+0.0.0.0 rum-static.pingdom.net
+0.0.0.0 as-sec.casalemedia.com
+0.0.0.0 dsum-sec.casalemedia.com
+0.0.0.0 as.casalemedia.com
+0.0.0.0 ecdn.firstimpression.io
+0.0.0.0 smetrics.samsung.com
+0.0.0.0 cdn.adt567.net
+0.0.0.0 a.et.nytimes.com
+0.0.0.0 als-svc.nytimes.com
+0.0.0.0 meter-svc.nytimes.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 kauflandstiftung.demdex.net
+0.0.0.0 kaufland.tt.omtrdc.net
+0.0.0.0 kaufland.d3.sc.omtrdc.net
+0.0.0.0 cdn.speedcurve.com
+0.0.0.0 nexus.ensighten.com
+0.0.0.0 cdn-3.convertexperiments.com
+0.0.0.0 ads.servebom.com
+0.0.0.0 dmx.districtm.io
 0.0.0.0 log.api.drift.com
 0.0.0.0 stats.datawrapper.de
 0.0.0.0 analytics.brave.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 cdn.optimizely.com
-0.0.0.0 widgets.outbrain.com
 0.0.0.0 analytics.jibecdn.com
 0.0.0.0 venetia.iad.appboy.com
 0.0.0.0 sdk.iad-01.braze.com
@@ -414,6 +454,8 @@ static.cloudflareinsights.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 pixel-eu.rubiconproject.com
 0.0.0.0 ads.rubiconproject.com
+0.0.0.0 fastlane-adv.rubiconproject.com
+0.0.0.0 optimized-by.rubiconproject.com
 0.0.0.0 hb.adscale.de
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 ads.pubmatic.com

@@ -363,6 +363,14 @@ static.cloudflareinsights.com
 0.0.0.0 odb.outbrain.com
 
 #Other ads, trackers and telemetry
+0.0.0.0 beacon.krxd.net
+0.0.0.0 ap.lijit.com
+0.0.0.0 prebid.media.net
+0.0.0.0 tlx.3lift.com
+0.0.0.0 eb2.3lift.com
+0.0.0.0 prebid.a-mo.net
+0.0.0.0 assets.a-mo.net
+0.0.0.0 nineto5mac-d.openx.net
 0.0.0.0 www.summerhamster.com
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 wapo-analytics.zeustechnology.com

@@ -937,6 +937,9 @@
 0.0.0.0 px4.ads.linkedin.com
 0.0.0.0 target.microsoft.com
 
+#Github
+0.0.0.0 collector.github.com
+
 #Microsoft Office
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
 0.0.0.0 prod.nexusrules.live.com.akadns.net
@@ -1223,6 +1226,8 @@ static.cloudflareinsights.com
 0.0.0.0 app.pendo.io
 0.0.0.0 cdn.pendo.io
 0.0.0.0 pendo.io
+0.0.0.0 api.feedback.us.pendo.io
+0.0.0.0 data.pendo.io
 
 #Adjust
 0.0.0.0 app.adjust.com
@@ -1268,6 +1273,18 @@ static.cloudflareinsights.com
 0.0.0.0 odb.outbrain.com
 
 #Other ads, trackers and telemetry
+0.0.0.0 eu1.clevertap-prod.com
+0.0.0.0 adsninja.ca
+0.0.0.0 tracker.nbcuas.com
+0.0.0.0 search.spotxchange.com
+0.0.0.0 prod-js.aws.y-track.com
+0.0.0.0 mssl.fwmrm.net
+0.0.0.0 plugin.mediavoice.com
+0.0.0.0 static.addtoany.com
+0.0.0.0 beacon.walmart.ca
+0.0.0.0 js.hsleadflows.net
+0.0.0.0 js.hscollectedforms.net
+0.0.0.0 cdm.connatix.com
 0.0.0.0 cdn.krxd.net
 0.0.0.0 beacon.krxd.net
 0.0.0.0 ap.lijit.com
@@ -1379,6 +1396,7 @@ static.cloudflareinsights.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 static.criteo.net
 0.0.0.0 gum.criteo.com
+0.0.0.0 b.da.us.criteo.com
 0.0.0.0 ssl.hurra.com
 0.0.0.0 analytics.chegg.com
 0.0.0.0 bulletproof-analytics.com
@@ -1468,6 +1486,8 @@ static.cloudflareinsights.com
 0.0.0.0 track.tenjin.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 script.hotjar.com
+0.0.0.0 vars.hotjar.com
+0.0.0.0 vc.hotjar.io
 0.0.0.0 api.revenuecat.com
 0.0.0.0 queryly.com
 0.0.0.0 api2.branch.io

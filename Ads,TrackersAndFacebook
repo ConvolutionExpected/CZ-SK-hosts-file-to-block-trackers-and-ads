@@ -936,6 +936,7 @@
 0.0.0.0 snap.licdn.com
 0.0.0.0 px4.ads.linkedin.com
 0.0.0.0 target.microsoft.com
+0.0.0.0 www.clarity.ms
 
 #Github
 0.0.0.0 collector.github.com
@@ -952,6 +953,7 @@
 0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 supportmetrics.apple.com
 
 #Google
 0.0.0.0 region1.app-measurement.com
@@ -1061,6 +1063,7 @@
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 z-na.amazon-adsystem.com
 
 #Cloudflare
 static.cloudflareinsights.com
@@ -1068,6 +1071,7 @@ static.cloudflareinsights.com
 #Pinterest
 0.0.0.0 trk.pinterest.com
 0.0.0.0 log.pinterest.com
+0.0.0.0 ct.pinterest.com
 
 #WordPress
 0.0.0.0 pixel.wp.com
@@ -1136,6 +1140,7 @@ static.cloudflareinsights.com
 0.0.0.0 cdn.cpex.cz
 0.0.0.0 stat.cncenter.cz
 0.0.0.0 h.seznam.cz
+0.0.0.0 c.seznam.cz
 0.0.0.0 cz.search.etargetnet.com
 0.0.0.0 tracker.cncenter.cz
 0.0.0.0 ads.m.o2.cz
@@ -1153,6 +1158,8 @@ static.cloudflareinsights.com
 0.0.0.0 serve.productads.sk
 0.0.0.0 swasc.kaufland.sk
 0.0.0.0 bannersector.sector.sk
+0.0.0.0 api-exponea.csob.sk
+0.0.0.0 cso-api.exponea.com
 
 #Gaming related
 0.0.0.0 cdp.cloud.unity3d.com
@@ -1273,6 +1280,26 @@ static.cloudflareinsights.com
 0.0.0.0 odb.outbrain.com
 
 #Other ads, trackers and telemetry
+0.0.0.0 btloader.com
+0.0.0.0 ads.yieldmo.com
+0.0.0.0 bngpt.com
+0.0.0.0 overconfidentfood.com
+0.0.0.0 mc.yandex.ru
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 secure-ds.serving-sys.com
+0.0.0.0 krk.kargo.com
+0.0.0.0 storage.cloud.kargo.com
+0.0.0.0 uk-script.dotmetrics.net
+0.0.0.0 serve.nrich.ai
+0.0.0.0 etahub.com
+0.0.0.0 s2s.singular.net
+0.0.0.0 ecdn.analysis.fi
+0.0.0.0 biddr.brealtime.com
+0.0.0.0 rabbitrifle.com
+0.0.0.0 fearlessfaucet.com
+0.0.0.0 ups.analytics.yahoo.com
+0.0.0.0 ads.stickyadstv.com
+0.0.0.0 script.crazyegg.com
 0.0.0.0 eu1.clevertap-prod.com
 0.0.0.0 adsninja.ca
 0.0.0.0 tracker.nbcuas.com
@@ -1359,6 +1386,7 @@ static.cloudflareinsights.com
 0.0.0.0 protagcdn.com
 0.0.0.0 trackcmp.net
 0.0.0.0 s7.addthis.com
+0.0.0.0 s9.addthis.com
 0.0.0.0 api.exponea.com
 0.0.0.0 proxy.snrbox.com
 0.0.0.0 dc.snrbox.com
@@ -1379,6 +1407,8 @@ static.cloudflareinsights.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 167126.engine.mobileapptracking.com
 0.0.0.0 media.trafficjunky.com
+0.0.0.0 media.trafficjunky.net
+0.0.0.0 static.trafficjunky.com
 0.0.0.0 analytics.nike.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intake-logging.wikimedia.org
@@ -1418,6 +1448,7 @@ static.cloudflareinsights.com
 0.0.0.0 a.teads.tv
 0.0.0.0 p.teads.tv
 0.0.0.0 t.teads.tv
+0.0.0.0 cdn.teads.tv
 0.0.0.0 www.npttech.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 api-esp.piano.io

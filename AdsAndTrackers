@@ -28,6 +28,7 @@
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 snap.licdn.com
 0.0.0.0 px4.ads.linkedin.com
+0.0.0.0 mid4.linkedin.com
 0.0.0.0 target.microsoft.com
 0.0.0.0 www.clarity.ms
 
@@ -373,6 +374,8 @@ static.cloudflareinsights.com
 0.0.0.0 odb.outbrain.com
 
 #Other ads, trackers and telemetry
+0.0.0.0 cdn.gotraffic.net
+0.0.0.0 personalization.bloomberg.com
 0.0.0.0 btloader.com
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 bngpt.com

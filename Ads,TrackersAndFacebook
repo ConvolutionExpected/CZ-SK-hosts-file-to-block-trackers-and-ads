@@ -1161,6 +1161,7 @@ static.cloudflareinsights.com
 0.0.0.0 bannersector.sector.sk
 0.0.0.0 api-exponea.csob.sk
 0.0.0.0 cso-api.exponea.com
+0.0.0.0 track.median.eu
 
 #Gaming related
 0.0.0.0 cdp.cloud.unity3d.com
@@ -1542,3 +1543,4 @@ static.cloudflareinsights.com
 0.0.0.0 doubleclick.shockwave.com
 0.0.0.0 ad.mirror.co.uk
 0.0.0.0 host3.adhese.be
+0.0.0.0 pub.doubleverify.com

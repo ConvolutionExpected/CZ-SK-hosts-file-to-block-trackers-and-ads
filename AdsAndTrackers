@@ -185,12 +185,15 @@ static.cloudflareinsights.com
 
 #Netflix
 0.0.0.0 ichnaea-web.netflix.com
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 customerevents.netflix.com
 
 #SK/CZ
 0.0.0.0 beam.denikn.cz
 0.0.0.0 tracker.beam.denikn.cz
 0.0.0.0 tracker.azet.sk
 0.0.0.0 bisko.mall.tv
+0.0.0.0 central.mall.tv
 0.0.0.0 login.dognet.sk
 0.0.0.0 dognet.sk
 0.0.0.0 predu.sk
@@ -255,11 +258,16 @@ static.cloudflareinsights.com
 0.0.0.0 api-exponea.csob.sk
 0.0.0.0 cso-api.exponea.com
 0.0.0.0 track.median.eu
+0.0.0.0 a.mojalekaren.sk
+0.0.0.0 zipper.performax.cz
+0.0.0.0 wlt-turbo-web2media-sk.adspirit.info
+0.0.0.0 turbo.web2media.sk
 
 #Gaming related
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 configv2.unityads.unity3d.com
 0.0.0.0 tracker-v4.gamedock.io
 0.0.0.0 api.gameanalytics.com
 
@@ -374,7 +382,21 @@ static.cloudflareinsights.com
 0.0.0.0 log.outbrain.com
 0.0.0.0 odb.outbrain.com
 
+#Samsung
+0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 config.samsungads.com
+0.0.0.0 oempprd.samsungcloudsolution.com
+
+#Sony
+0.0.0.0 smetrics.aem.playstation.com
+
 #Other ads, trackers and telemetry
+0.0.0.0 csr.onet.pl
+0.0.0.0 events.onet.pl
+0.0.0.0 cookie-cdn.cookiepro.com
+0.0.0.0 champagne.futurecdn.net
+0.0.0.0 ezodn.com
+0.0.0.0 tvx.adgrx.com
 0.0.0.0 cdn.gotraffic.net
 0.0.0.0 personalization.bloomberg.com
 0.0.0.0 btloader.com
@@ -510,6 +532,7 @@ static.cloudflareinsights.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intake-logging.wikimedia.org
 0.0.0.0 cdn.mookie1.com
+0.0.0.0 cz-gmtdmp.mookie1.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 pixel-eu.rubiconproject.com
 0.0.0.0 micro.rubiconproject.com
@@ -556,6 +579,7 @@ static.cloudflareinsights.com
 0.0.0.0 powerad.ai
 0.0.0.0 jscdn.yieldbird.com
 0.0.0.0 content.aimatch.com
+0.0.0.0 phc-ia.aimatch.com
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 rum-http-intake.logs.datadoghq.com
 0.0.0.0 c.riskified.com

@@ -262,6 +262,7 @@ static.cloudflareinsights.com
 0.0.0.0 zipper.performax.cz
 0.0.0.0 wlt-turbo-web2media-sk.adspirit.info
 0.0.0.0 turbo.web2media.sk
+0.0.0.0 analytics.bauermedia.sk
 
 #Gaming related
 0.0.0.0 cdp.cloud.unity3d.com
@@ -391,6 +392,10 @@ static.cloudflareinsights.com
 0.0.0.0 smetrics.aem.playstation.com
 
 #Other ads, trackers and telemetry
+0.0.0.0 public.servenobid.com
+0.0.0.0 bbc.gscontxt.net
+0.0.0.0 api-2-0.spot.im
+0.0.0.0 cdn.static.zdbb.net
 0.0.0.0 csr.onet.pl
 0.0.0.0 events.onet.pl
 0.0.0.0 cookie-cdn.cookiepro.com

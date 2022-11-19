@@ -392,6 +392,11 @@ static.cloudflareinsights.com
 0.0.0.0 smetrics.aem.playstation.com
 
 #Other ads, trackers and telemetry
+0.0.0.0 go.taylorandfrancis.com
+0.0.0.0 pi.pardot.com
+0.0.0.0 js-sec.indexww.com
+0.0.0.0 7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com
+0.0.0.0 cdata.carambo.la
 0.0.0.0 o64374.ingest.sentry.io
 0.0.0.0 mscoldness.com
 0.0.0.0 shitucka.net
@@ -451,6 +456,7 @@ static.cloudflareinsights.com
 0.0.0.0 cdn.krxd.net
 0.0.0.0 beacon.krxd.net
 0.0.0.0 ap.lijit.com
+0.0.0.0 ce.lijit.com
 0.0.0.0 prebid.media.net
 0.0.0.0 tlx.3lift.com
 0.0.0.0 eb2.3lift.com
@@ -514,6 +520,8 @@ static.cloudflareinsights.com
 0.0.0.0 pm-gateway.supersonicads.com
 0.0.0.0 r2b2-emea.adnxs.com
 0.0.0.0 etarget-emea.adnxs.com
+0.0.0.0 mediation.adnxs.com
+0.0.0.0 acdn.adnxs.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 mathid.mathtag.com
 0.0.0.0 i.connectad.io
@@ -552,10 +560,12 @@ static.cloudflareinsights.com
 0.0.0.0 cz-gmtdmp.mookie1.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 pixel-eu.rubiconproject.com
+0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 micro.rubiconproject.com
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 optimized-by.rubiconproject.com
+0.0.0.0 token.rubiconproject.com
 0.0.0.0 hb.adscale.de
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 ads.pubmatic.com

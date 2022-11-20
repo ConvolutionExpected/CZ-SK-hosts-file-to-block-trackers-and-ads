@@ -140,6 +140,7 @@
 0.0.0.0 s0.2mdn.net
 0.0.0.0 6501629.fls.doubleclick.net
 0.0.0.0 adservice.google.cz
+0.0.0.0 mail-ads.google.com
 
 #Waze
 0.0.0.0 ads-resources.waze.com
@@ -271,6 +272,7 @@ static.cloudflareinsights.com
 0.0.0.0 configv2.unityads.unity3d.com
 0.0.0.0 tracker-v4.gamedock.io
 0.0.0.0 api.gameanalytics.com
+0.0.0.0 geo-balanced-collect.deltadna.net
 
 #Gemius
 0.0.0.0 gemius.pl
@@ -392,6 +394,7 @@ static.cloudflareinsights.com
 0.0.0.0 smetrics.aem.playstation.com
 
 #Other ads, trackers and telemetry
+0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 go.taylorandfrancis.com
 0.0.0.0 pi.pardot.com
 0.0.0.0 js-sec.indexww.com
@@ -464,6 +467,7 @@ static.cloudflareinsights.com
 0.0.0.0 assets.a-mo.net
 0.0.0.0 nineto5mac-d.openx.net
 0.0.0.0 u.openx.net
+0.0.0.0 us-u.openx.net
 0.0.0.0 gamer-d.openx.net
 0.0.0.0 www.summerhamster.com
 0.0.0.0 targeting.washpost.nile.works
@@ -488,6 +492,7 @@ static.cloudflareinsights.com
 0.0.0.0 kauflandstiftung.demdex.net
 0.0.0.0 kaufland.tt.omtrdc.net
 0.0.0.0 kaufland.d3.sc.omtrdc.net
+0.0.0.0 kauflandstiftung-mkt-prod1.campaign.adobe.com
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 cdn-3.convertexperiments.com

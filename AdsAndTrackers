@@ -48,6 +48,7 @@
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 supportmetrics.apple.com
+0.0.0.0 beacon.shazam.com
 
 #Google
 0.0.0.0 region1.app-measurement.com
@@ -141,6 +142,7 @@
 0.0.0.0 6501629.fls.doubleclick.net
 0.0.0.0 adservice.google.cz
 0.0.0.0 mail-ads.google.com
+0.0.0.0 adservice.google.sk
 
 #Waze
 0.0.0.0 ads-resources.waze.com
@@ -264,6 +266,11 @@ static.cloudflareinsights.com
 0.0.0.0 wlt-turbo-web2media-sk.adspirit.info
 0.0.0.0 turbo.web2media.sk
 0.0.0.0 analytics.bauermedia.sk
+0.0.0.0 tracker-beam.aktuality.sk
+0.0.0.0 campaign-beam.aktuality.sk
+0.0.0.0 beam.aktuality.sk
+0.0.0.0 api-analytics.pelikan.sk
+0.0.0.0 analytics.eshopino.cz
 
 #Gaming related
 0.0.0.0 cdp.cloud.unity3d.com
@@ -334,6 +341,7 @@ static.cloudflareinsights.com
 0.0.0.0 track.adform.net
 0.0.0.0 s1.adform.net
 0.0.0.0 adx.adform.net
+0.0.0.0 c1.adform.net
 
 #Pendo
 0.0.0.0 app.pendo.io
@@ -356,6 +364,10 @@ static.cloudflareinsights.com
 0.0.0.0 publisher.caroda.io
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 analytics.vpplayer.tech
+0.0.0.0 sanalytics.disneyplus.com
+0.0.0.0 0.0.0.0 disney.my.sentry.io
+0.0.0.0 trinitymedia.ai
+0.0.0.0 trinity-player.thetimmedia.site
 
 #Daum
 0.0.0.0 display.ad.daum.net
@@ -394,6 +406,8 @@ static.cloudflareinsights.com
 0.0.0.0 smetrics.aem.playstation.com
 
 #Other ads, trackers and telemetry
+0.0.0.0 prebid.the-ozone-project.com
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 go.taylorandfrancis.com
 0.0.0.0 pi.pardot.com
@@ -409,9 +423,6 @@ static.cloudflareinsights.com
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 api.nextgen.guardianapps.co.uk
 0.0.0.0 phar.gu-web.net
-0.0.0.0 trinitymedia.ai
-0.0.0.0 trinity-player.thetimmedia.site
-0.0.0.0 disney.my.sentry.io
 0.0.0.0 public.servenobid.com
 0.0.0.0 bbc.gscontxt.net
 0.0.0.0 api-2-0.spot.im

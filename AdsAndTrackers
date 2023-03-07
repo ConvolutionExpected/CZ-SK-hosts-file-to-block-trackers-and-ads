@@ -28,9 +28,11 @@
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 snap.licdn.com
 0.0.0.0 px4.ads.linkedin.com
+0.0.0.0 px.ads.linkedin.com
 0.0.0.0 mid4.linkedin.com
 0.0.0.0 target.microsoft.com
 0.0.0.0 www.clarity.ms
+0.0.0.0 eu-mobile.events.data.microsoft.com
 
 #Github
 0.0.0.0 collector.github.com
@@ -75,6 +77,7 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 adservice.google.com
 0.0.0.0 googleadservices.com
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 google-analytics.com
@@ -140,6 +143,7 @@
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 6501629.fls.doubleclick.net
+0.0.0.0 fls.doubleclick.net
 0.0.0.0 adservice.google.cz
 0.0.0.0 mail-ads.google.com
 0.0.0.0 adservice.google.sk
@@ -185,6 +189,7 @@ static.cloudflareinsights.com
 0.0.0.0 dpm.demdex.net
 0.0.0.0 geo.adobe.com
 0.0.0.0 adobedc.demdex.net
+0.0.0.0 lenovo.demdex.net
 
 #Netflix
 0.0.0.0 ichnaea-web.netflix.com
@@ -271,6 +276,7 @@ static.cloudflareinsights.com
 0.0.0.0 beam.aktuality.sk
 0.0.0.0 api-analytics.pelikan.sk
 0.0.0.0 analytics.eshopino.cz
+0.0.0.0 reklama.slovenska.sk
 
 #Gaming related
 0.0.0.0 cdp.cloud.unity3d.com
@@ -365,7 +371,7 @@ static.cloudflareinsights.com
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 analytics.vpplayer.tech
 0.0.0.0 sanalytics.disneyplus.com
-0.0.0.0 0.0.0.0 disney.my.sentry.io
+0.0.0.0 disney.my.sentry.io
 0.0.0.0 trinitymedia.ai
 0.0.0.0 trinity-player.thetimmedia.site
 
@@ -396,6 +402,7 @@ static.cloudflareinsights.com
 0.0.0.0 images.outbrain.com
 0.0.0.0 log.outbrain.com
 0.0.0.0 odb.outbrain.com
+0.0.0.0 sync.outbrain.com
 
 #Samsung
 0.0.0.0 lcprd1.samsungcloudsolution.net
@@ -453,6 +460,9 @@ static.cloudflareinsights.com
 0.0.0.0 rabbitrifle.com
 0.0.0.0 fearlessfaucet.com
 0.0.0.0 ups.analytics.yahoo.com
+0.0.0.0 geo.yahoo.com
+0.0.0.0 geo.query.yahoo.com
+0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 script.crazyegg.com
 0.0.0.0 eu1.clevertap-prod.com
@@ -472,6 +482,7 @@ static.cloudflareinsights.com
 0.0.0.0 ap.lijit.com
 0.0.0.0 ce.lijit.com
 0.0.0.0 prebid.media.net
+0.0.0.0 hbx.media.net
 0.0.0.0 tlx.3lift.com
 0.0.0.0 eb2.3lift.com
 0.0.0.0 prebid.a-mo.net
@@ -517,6 +528,9 @@ static.cloudflareinsights.com
 0.0.0.0 analytics.jibecdn.com
 0.0.0.0 venetia.iad.appboy.com
 0.0.0.0 sdk.iad-01.braze.com
+0.0.0.0 sdk.iad-02.braze.com
+0.0.0.0 sdk.iad-03.braze.com
+0.0.0.0 7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com
 0.0.0.0 ads.adthrive.com
 0.0.0.0 cdn.appdynamics.com
 0.0.0.0 cdn.viglink.com
@@ -528,6 +542,7 @@ static.cloudflareinsights.com
 0.0.0.0 collector-pxikkul2rm.perimeterx.net
 0.0.0.0 www.adtilt.com
 0.0.0.0 config.inmobi.com
+0.0.0.0 sync.inmobi.com
 0.0.0.0 d.applovin.com
 0.0.0.0 rt.applovin.com
 0.0.0.0 ms.applovin.com
@@ -555,6 +570,7 @@ static.cloudflareinsights.com
 0.0.0.0 widget.trustpilot.com
 0.0.0.0 inpref.com
 0.0.0.0 cdn.taboola.com
+0.0.0.0 trc.taboola.com
 0.0.0.0 t.targito.com
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 fn.autolink.growthcaptain.fr
@@ -582,10 +598,15 @@ static.cloudflareinsights.com
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 optimized-by.rubiconproject.com
 0.0.0.0 token.rubiconproject.com
+0.0.0.0 secure-assets.rubiconproject.com
 0.0.0.0 hb.adscale.de
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 ads.pubmatic.com
+0.0.0.0 s.lenovo.com
+0.0.0.0 trace.mediago.io
+0.0.0.0 visitor.omnitagjs.com
 0.0.0.0 prebid.mgid.com
+0.0.0.0 cm.mgid.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 static.criteo.net
 0.0.0.0 gum.criteo.com
@@ -621,6 +642,9 @@ static.cloudflareinsights.com
 0.0.0.0 beacon.s-onetag.com
 0.0.0.0 powerad.ai
 0.0.0.0 jscdn.yieldbird.com
+0.0.0.0 code.yengo.com
+0.0.0.0 telemetry.malwarebytes.com
+0.0.0.0 content.pendo.statista.com
 0.0.0.0 content.aimatch.com
 0.0.0.0 phc-ia.aimatch.com
 0.0.0.0 www.anrdoezrs.net
@@ -671,12 +695,15 @@ static.cloudflareinsights.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 api.bugfender.com
 0.0.0.0 heapanalytics.com
+0.0.0.0 cdn.quantummetric.com
 0.0.0.0 getclicky.com
 0.0.0.0 rickmetrics.com
+0.0.0.0 c.evidon.com
 0.0.0.0 adnxs.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 api.mixpanel.com
+0.0.0.0 treatment.grammarly.com
 0.0.0.0 consumertrack.com
 0.0.0.0 track.tenjin.com
 0.0.0.0 static.hotjar.com
@@ -694,6 +721,7 @@ static.cloudflareinsights.com
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 rec.smartlook.com
 0.0.0.0 conversion-pixel.invitemedia.com
+0.0.0.0 analytics.maileon.com
 0.0.0.0 ads.cc-dt.com
 0.0.0.0 clickserve.cc-dt.com
 0.0.0.0 clickserve.dartsearch.net
@@ -704,3 +732,6 @@ static.cloudflareinsights.com
 0.0.0.0 ad.mirror.co.uk
 0.0.0.0 host3.adhese.be
 0.0.0.0 pub.doubleverify.com
+0.0.0.0 campaigns.writer.com
+0.0.0.0 app-ab21.marketo.com
+0.0.0.0 js.driftt.com

@@ -735,3 +735,4 @@ static.cloudflareinsights.com
 0.0.0.0 campaigns.writer.com
 0.0.0.0 app-ab21.marketo.com
 0.0.0.0 js.driftt.com
+0.0.0.0 api.rollbar.com

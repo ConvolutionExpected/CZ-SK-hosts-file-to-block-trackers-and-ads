@@ -52,10 +52,14 @@
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 beacon.shazam.com
 
+#Reddit
+0.0.0.0 stats.redditmedia.com
+
 #Google
 0.0.0.0 region1.app-measurement.com
 0.0.0.0 s.youtube.com
 0.0.0.0 csi.gstatic.com
+0.0.0.0 encrypted-tbn1.gstatic.com
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 www.googleoptimize.com
@@ -372,6 +376,7 @@ static.cloudflareinsights.com
 0.0.0.0 analytics.vpplayer.tech
 0.0.0.0 sanalytics.disneyplus.com
 0.0.0.0 disney.my.sentry.io
+0.0.0.0 disney.demdex.net
 0.0.0.0 trinitymedia.ai
 0.0.0.0 trinity-player.thetimmedia.site
 
@@ -525,6 +530,7 @@ static.cloudflareinsights.com
 0.0.0.0 analytics.brave.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 cdn.optimizely.com
+0.0.0.0 a21018620252.cdn.optimizely.com
 0.0.0.0 analytics.jibecdn.com
 0.0.0.0 venetia.iad.appboy.com
 0.0.0.0 sdk.iad-01.braze.com
@@ -674,6 +680,7 @@ static.cloudflareinsights.com
 0.0.0.0 ad.wsod.com
 0.0.0.0 static.chartbeat.com
 0.0.0.0 cdn.permutive.com
+0.0.0.0 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 0.0.0.0 usasync01.admantx.com
 0.0.0.0 cdn.sophi.io
 0.0.0.0 geolocation.onetrust.com
@@ -736,3 +743,8 @@ static.cloudflareinsights.com
 0.0.0.0 app-ab21.marketo.com
 0.0.0.0 js.driftt.com
 0.0.0.0 api.rollbar.com
+0.0.0.0 cdn.cookielaw.org
+0.0.0.0 r20.rs6.net
+0.0.0.0 usageanalytics.coveo.com
+0.0.0.0 cdn.qwtag.com
+0.0.0.0 event.getblue.io

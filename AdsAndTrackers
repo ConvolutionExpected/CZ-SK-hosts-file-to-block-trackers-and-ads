@@ -563,6 +563,7 @@ static.cloudflareinsights.com
 0.0.0.0 mathid.mathtag.com
 0.0.0.0 i.connectad.io
 0.0.0.0 combine.urbanairship.com
+0.0.0.0 remote-data.urbanairship.com
 0.0.0.0 track.mailerlite.com
 0.0.0.0 protagcdn.com
 0.0.0.0 trackcmp.net
@@ -748,3 +749,4 @@ static.cloudflareinsights.com
 0.0.0.0 usageanalytics.coveo.com
 0.0.0.0 cdn.qwtag.com
 0.0.0.0 event.getblue.io
+0.0.0.0 lightning.cnn.com

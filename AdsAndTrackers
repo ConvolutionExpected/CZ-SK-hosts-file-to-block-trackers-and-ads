@@ -33,6 +33,7 @@
 0.0.0.0 target.microsoft.com
 0.0.0.0 www.clarity.ms
 0.0.0.0 eu-mobile.events.data.microsoft.com
+0.0.0.0 graph-next.fp.measure.office.com
 
 #Github
 0.0.0.0 collector.github.com
@@ -418,6 +419,8 @@ static.cloudflareinsights.com
 0.0.0.0 smetrics.aem.playstation.com
 
 #Other ads, trackers and telemetry
+0.0.0.0 cdn-eu.dynamicyield.com
+0.0.0.0 sk.info.lgsmartad.com
 0.0.0.0 prebid.the-ozone-project.com
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 dmtracking2.alibaba.com
